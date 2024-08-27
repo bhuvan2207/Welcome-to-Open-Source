@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/bhuvan2207">
+                    <img src="https://images.app.goo.gl/BHy2m54VqFyqRYAGA" width="100px;" alt="Kaone Keboetseng"/>
+                    <br />
+                    <sub><b>Bhuvan Khajuria</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
